@@ -3,7 +3,7 @@ This Sketchup model was created for the Safra square competition and is availabl
 
 ## Requirements
 
-(Sketchup)[https://www.sketchup.com/]
+[Sketchup](https://www.sketchup.com/)
 
 ## How to use
 
